@@ -2,7 +2,9 @@ body {
     background-color: #0A0C1B;
     color: white;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
 }
+
 .flex{
     display: flex;
 }
@@ -85,7 +87,12 @@ ul li:first-child {
     align-content: center; 
   }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
 
-
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
