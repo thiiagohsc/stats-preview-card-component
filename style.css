@@ -18,7 +18,8 @@ main {
   }
 
 .container {
-    background-color: #1B1938 ;    flex-direction: column;
+    background-color: #1B1938 ;    
+    flex-direction: column;
     justify-content: center;
     text-align: center;
     border-top-left-radius: 10px;
@@ -102,9 +103,29 @@ ul li:first-child {
 .attribution { 
     font-size: 11px; 
     text-align: center; 
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 12px;
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 54%, 58%); 
     text-decoration: none;
+}
+
+@media (max-width: 800px) {
+    main {
+        flex-direction: column-reverse;
+        padding: 100px;
+    }
+
+    img {
+        border-top-left-radius: 10px;
+        height: 400px;
+    }
+    
+    .container {
+        border-bottom-right-radius: 10px ;
+    }
+    
 }
