@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -40,6 +40,11 @@ Mobile version
 
 ### Built with
 
+<!-- Bagdes -->
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -51,5 +56,4 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Thiago Henrique](https://)
-- Frontend Mentor - [YOUR PROFILE HERE](https://www.frontendmentor.io/profile/)
+- Frontend Mentor - [@thiiagohsc](https://www.frontendmentor.io/profile/thiiagohsc)
