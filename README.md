@@ -25,11 +25,11 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/screenshots/desktop-version.png)
+![desktop version](/images/Version_Desktop.PNG)
 
 Mobile version
 
-![mobile version](/screenshots/mobile-version.png)
+![mobile version](/images/Version_Mobile.PNG)
 
 ### Links
 
