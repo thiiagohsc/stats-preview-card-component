@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/thiiagohsc/frontendmentor-stats-preview-card-component)
-- Live Site URL: [GitHub Pages Live URL](https://thiiagohsc.github.io/frontendmentor-stats-preview-card-component/)
+- Live Site URL: [GitHub Pages Live URL](https://thiiagohsc.github.io/stats-preview-card-component/)
 
 ## My process
 
